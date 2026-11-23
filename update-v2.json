@@ -1,12 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/maks2020966/svitlo-sumy-updates/releases/download/v1.9/svitlo-romny-1.9-test.apk",
-  "sha256": "2cebe7b17465735e9b6b59aad7fbc7b4ff9a1c2716ac6b0d92cd9caf4edfe3f6"
-}
-{
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/maks2020966/svitlo-sumy-updates/releases/download/v1.8/svitlo-sumy-1.8-test.apk",
-  "sha256": "f9247ce161c43a2d78be4c673314880d4386b197c966e1ee33305d15cf750472"
+    "versionCode": 10,
+    "versionName": "1.9",
+    "apkUrl": "https://github.com/maks2020966/svitlo-sumy-updates/releases/download/v1.9/svitlo-romny-1.9-test.apk",
+    "sha256": "2cebe7b17465735e9b6b59aad7fbc7b4ff9a1c2716ac6b0d92cd9caf4edfe3f6"
 }
